@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Saida Alam",
+      "image": "https://i.postimg.cc/6TJ8SCWj/women1.png",
+      "email": "alam.saida18@gmail.com",
+      "background":"https://i.postimg.cc/MTWNc5KG/background.jpg",
+      "badges": ["Gold Badge"],
+      "recentPosts": [
+        { 
+          "title": "Understanding AI", 
+          "description": "In this post, I delve into the basics of Artificial Intelligence (AI) and its potential to revolutionize various industries. AI involves the simulation of human intelligence in machines that are programmed to think and learn like humans. This includes everything from problem-solving to voice recognition.",
+          "date": "2024-06-01",
+          "tag": "Artificial Intelligence",
+          "tagImage": "https://i.postimg.cc/sX3s7HXx/Artificial-Intelligence.jpg"
+        },
+        { 
+          "title": "Building Responsive Websites", 
+          "description": "This post covers the principles of responsive web design. I discuss techniques for making websites look great on all devices, from desktops to smartphones. Responsive design is crucial in today's multi-device world, ensuring that users have a good experience regardless of their screen size.",
+          "date": "2024-05-22",
+          "tag": "Web Design",
+          "tagImage": "https://i.postimg.cc/sXz6WqMd/webdesign.jpg"
+        },
+        { 
+          "title": "Getting Started with Mobile Development", 
+          "description": "This post explores the fundamentals of mobile app development. From choosing the right platform to understanding user experience, I cover everything you need to know to start building your own mobile applications. Mobile development is a rapidly growing field with endless opportunities.",
+          "date": "2024-06-05",
+          "tag": "Mobile Development",
+          "tagImage": "https://i.postimg.cc/d1fNwDzF/Mobile-Development.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "image": "https://i.postimg.cc/6TJ8SCWj/women1.png",
+      "background":"https://i.postimg.cc/MTWNc5KG/background.jpg",
+      "email": "jane.smith@example.com",
+      "badges": ["Gold Badge"],
+      "recentPosts": [
+        { 
+          "title": "Introduction to Machine Learning", 
+          "description": "In this introductory post, I explain what machine learning is and how it works. Machine learning is a branch of artificial intelligence that involves training algorithms to learn from data and make predictions or decisions without being explicitly programmed to do so.",
+          "date": "2024-05-20",
+          "tag": "Machine Learning",
+          "tagImage": "ttps://i.postimg.cc/d1fNwDzF/Mobile-Development.jpg"
+        },
+        { 
+          "title": "Web Development Essentials", 
+          "description": "Here, I discuss the core concepts of web development, including HTML, CSS, and JavaScript. These technologies are the building blocks of the web, enabling the creation of interactive and responsive websites. I also cover best practices for modern web development.",
+          "date": "2024-06-03",
+          "tag": "Web Development",
+          "tagImage": "https://i.postimg.cc/L8gt9q92/web-development.png"
+        },
+        { 
+          "title": "Advanced JavaScript Techniques", 
+          "description": "Deep dive into JavaScript. This post explores advanced JavaScript concepts such as closures, asynchronous programming, and ES6 features. These techniques are essential for developing robust and efficient web applications.",
+          "date": "2024-05-25",
+          "tag": "JavaScript",
+          "tagImage": "https://i.postimg.cc/fR0BrDXQ/js.png"
+        }
+      ]
+    },
+    {
+      "name": "Alice Johnson",
+      "image": "https://i.postimg.cc/XYW8BCfk/women2.jpg",
+      "background":"https://i.postimg.cc/MTWNc5KG/background.jpg",
+      "email": "alice.johnson@example.com",
+      "badges": ["Bronze Badge"],
+      "recentPosts": [
+        { 
+          "title": "Exploring Data Science", 
+          "description": "Data science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. In this post, I discuss the importance of data science and its applications in various industries.",
+          "date": "2024-04-10",
+          "tag": "Data Science",
+          "tagImage": "https://i.postimg.cc/mk0nNhwj/Data-Science.jpg"
+        },
+        { 
+          "title": "Understanding Blockchain", 
+          "description": "This post provides an overview of blockchain technology and its potential impact on various sectors. Blockchain is a decentralized digital ledger that records transactions across many computers in such a way that the registered transactions cannot be altered retroactively.",
+          "date": "2024-04-15",
+          "tag": "Blockchain",
+          "tagImage": "https://i.postimg.cc/fRxYdLmy/blockchain.jpg"
+        },
+        { 
+          "title": "Python for Data Analysis", 
+          "description": "Python is a powerful tool for data analysis. In this post, I cover the basics of using Python for data analysis, including libraries like pandas and NumPy. Python's simplicity and readability make it a great choice for both beginners and experienced data scientists.",
+          "date": "2024-04-18",
+          "tag": "Python",
+          "tagImage": "https://i.postimg.cc/RZ3Dxwk8/python.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bob Brown",
+      "image": "https://randomuser.me/api/portraits/men/2.jpg",
+      "background":"https://i.postimg.cc/MTWNc5KG/background.jpg",
+      "email": "bob.brown@example.com",
+      "badges": ["Gold Badge"],
+      "recentPosts": [
+        { 
+          "title": "Introduction to Cybersecurity", 
+          "description": "Cybersecurity is essential in protecting systems, networks, and programs from digital attacks. In this post, I discuss the fundamentals of cybersecurity, common threats, and best practices for safeguarding your digital assets.",
+          "date": "2024-03-10",
+          "tag": "Cybersecurity",
+          "tagImage": "https://i.postimg.cc/wMsfvgpm/Cybersecurity.jpg"
+        },
+        { 
+          "title": "Cloud Computing Basics", 
+          "description": "Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software. In this post, I explore the basics of cloud computing and its advantages over traditional IT infrastructure.",
+          "date": "2024-03-12",
+          "tag": "Cloud Computing",
+          "tagImage": "https://i.postimg.cc/QN4hKbrN/Cloud-Computing.jpg"
+        },
+        { 
+          "title": "DevOps Practices", 
+          "description": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). In this post, I explain how DevOps can improve the efficiency of development and deployment processes, resulting in faster and more reliable software delivery.",
+          "date": "2024-03-15",
+          "tag": "DevOps",
+          "tagImage": "https://i.postimg.cc/bN0XHH72/DevOps.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Charlie Davis",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "background":"https://i.postimg.cc/MTWNc5KG/background.jpg",
+      "email": "charlie.davis@example.com",
+      "badges": ["Bronze Badge"],
+      "recentPosts": [
+        { 
+          "title": "Basics of SEO", 
+          "description": "Search Engine Optimization (SEO) is crucial for improving the visibility of a website. In this post, I cover the basics of SEO, including keyword research, on-page optimization, and link building strategies. Effective SEO can significantly increase your website's traffic and search engine rankings.",
+          "date": "2024-02-20",
+          "tag": "SEO",
+          "tagImage": "https://i.postimg.cc/fLgds0n2/seo.png"
+        },
+        { 
+          "title": "Social Media Marketing", 
+          "description": "Social media marketing is a powerful way to reach and engage with your audience. In this post, I discuss strategies for creating and managing effective social media campaigns across platforms like Facebook, Twitter, and Instagram.",
+          "date": "2024-02-22",
+          "tag": "Social Media Marketing",
+          "tagImage": "https://i.postimg.cc/ZY2ND3L0/social-media-marketing.png"
+        },
+        { 
+          "title": "Content Marketing Strategies", 
+          "description": "Content marketing involves creating and sharing valuable content to attract and retain a clearly defined audience. In this post, I explore various content marketing strategies, including blog posts, videos, and infographics, to drive customer engagement and conversions.",
+          "date": "2024-02-25",
+          "tag": "Content Marketing",
+          "tagImage": "https://i.postimg.cc/W45FmJ3N/content-marketing.png"
+        }
+      ]
+    }
+  ]
+  

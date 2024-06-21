@@ -1,0 +1,10 @@
+{
+    "name": "Admin",
+    "image": "https://i.postimg.cc/ncp5gkLS/author3.png",
+    "email": "admin999@gmail.com",
+    "password" : "admin999",
+    "numPosts": 20,
+    "numComments": 40,
+    "numUsers": 5
+  }
+  

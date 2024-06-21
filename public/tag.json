@@ -1,0 +1,48 @@
+[
+    {
+      "tag": "Artificial Intelligence",
+      "image": "https://i.postimg.cc/sX3s7HXx/Artificial-Intelligence.jpg",
+      "topic": 2
+    },
+    {
+      "tag": "Web Development",
+      "image": "https://i.postimg.cc/Gt2RSBv1/Web-Development.jpg",
+      "topic": 6
+    },
+    {
+      "tag": "Cloud Computing",
+      "image": "https://i.postimg.cc/QN4hKbrN/Cloud-Computing.jpg",
+      "topic": 3
+    },
+    {
+      "tag": "Data Science",
+      "image": "https://i.postimg.cc/mk0nNhwj/Data-Science.jpg",
+      "topic": 4
+    },
+    {
+      "tag": "Mobile Development",
+      "image": "https://i.postimg.cc/d1fNwDzF/Mobile-Development.jpg",
+      "topic": 2
+    },
+    {
+      "tag": "Cybersecurity",
+      "image": "https://i.postimg.cc/wMsfvgpm/Cybersecurity.jpg",
+      "topic": 3
+    },
+    {
+      "tag": "Game Development",
+      "image": "https://i.postimg.cc/9XRCT9XG/Game-Development.png",
+      "topic": 5
+    },
+    {
+      "tag": "Networking",
+      "image": "https://i.postimg.cc/KYph3Gdq/Networking.jpg",
+      "topic": 4
+    },
+    {
+      "tag": "DevOps",
+      "image": "https://i.postimg.cc/bN0XHH72/DevOps.jpg",
+      "topic": 3
+    }
+  ]
+  

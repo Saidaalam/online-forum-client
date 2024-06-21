@@ -1,0 +1,63 @@
+[
+    {
+      "authorImage": "https://i.postimg.cc/K8Nk8Cb4/author.png",
+      "authorName": "John Doe",
+      "title": "New Feature Released",
+      "description": "We are excited to announce the release of a new feature that will enhance your experience. Check it out now!"
+    },
+    {
+      "authorImage": "https://i.postimg.cc/ncp5gkLS/author3.png",
+      "authorName": "Jane Smith",
+      "title": "Scheduled Maintenance",
+      "description": "Our system will undergo scheduled maintenance on June 20th from 2:00 AM to 4:00 AM. Please plan accordingly."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/y8JTbg0r/author4.png",
+      "authorName": "Alice Johnson",
+      "title": "New Blog Post",
+      "description": "Read our latest blog post about the trends in tech industry and how they can benefit you."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/g0HLSmtT/author2.png",
+      "authorName": "Bob Lee",
+      "title": "Community Event",
+      "description": "Join us for a community event this weekend. There will be lots of fun activities and networking opportunities."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/K8Nk8Cb4/author.png",
+      "authorName": "Michael Brown",
+      "title": "Security Update",
+      "description": "A new security update has been rolled out to all users. Please ensure your systems are up to date."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/y8JTbg0r/author4.png",
+      "authorName": "Laura Wilson",
+      "title": "Product Launch",
+      "description": "We are thrilled to announce the launch of our new product line. Visit our website to learn more."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/ncp5gkLS/author3.png",
+      "authorName": "Chris Martin",
+      "title": "Holiday Schedule",
+      "description": "Please be informed of our holiday schedule. Our offices will be closed from December 24th to January 2nd."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/g0HLSmtT/author2.png",
+      "authorName": "Emma Davis",
+      "title": "Customer Feedback",
+      "description": "We value your feedback. Please take a moment to fill out our customer satisfaction survey."
+    },
+    {
+      "authorImage": "https://i.postimg.cc/y8JTbg0r/author4.png",
+      "authorName": "Olivia Anderson",
+      "title": "Webinar Invitation",
+      "description": "You are invited to join our upcoming webinar on the latest industry trends. Register now!"
+    },
+    {
+      "authorImage": "https://i.postimg.cc/K8Nk8Cb4/author.png",
+      "authorName": "Daniel Thomas",
+      "title": "System Upgrade",
+      "description": "Our system will be upgraded next week to improve performance and reliability. Downtime is expected to be minimal."
+    }
+  ]
+  
