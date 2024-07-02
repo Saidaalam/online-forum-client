@@ -1,4 +1,5 @@
 # Online Forum Website Nexora
+Live Link : https://github.com/Saidaalam/online-forum-client
 
 ## Description
 This project is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).
@@ -12,3 +13,9 @@ It serves as an online forum where users can engage in discussions, create posts
 - **Admin Dashboard**: Provides admin features such as user management, handling reported comments, and making announcements.
 - **Membership Page**: Allows users to upgrade to membership for additional features.
 - **Responsive Design**: Ensures the website is usable and looks good on all devices (desktops, tablets, and mobiles).
+  
+## Technologies Used :
+Front-end: React.js
+Back-end: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT (JSON Web Tokens)
